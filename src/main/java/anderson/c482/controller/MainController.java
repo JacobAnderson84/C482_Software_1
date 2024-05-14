@@ -29,6 +29,7 @@ import static anderson.c482.Model.Inventory.*;
 /** This is the class for the MainController.
  * This is controller for the MainView
  * */
+//comment for github
 public class MainController implements Initializable {
 
     //////Part TABLE

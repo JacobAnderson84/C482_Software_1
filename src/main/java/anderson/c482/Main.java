@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-
+//add comment for github
 /**This Class creates an inventory management system applications.
  *  FUTURE ENHANCEMENT- When adding a new Part or Product when the save button is clicked the program calls the method to
  *                      auto generate the ID and also increment it by 1 for future uses. If there is an invalid input into

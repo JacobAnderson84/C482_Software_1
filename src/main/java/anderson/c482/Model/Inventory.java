@@ -12,6 +12,7 @@ import javafx.collections.ObservableList;
 /** This is the class for Inventory.
  * This contains methods for managing Products and Parts
  * */
+//comment for github
 //Class for Inventory implements Part and Product classes
 public class Inventory {
     //Private fields
